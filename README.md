@@ -144,11 +144,5 @@ The code generates various visualizations:
 - Fine-tuning significantly improves detection quality
 - Best results achieved with proper image preprocessing
 
-## License
 
-[Specify your license]
 
-## Acknowledgments
-
-- DINO implementation: [Citation]
-- Dataset: [Source]
